@@ -10,6 +10,6 @@ I'm Avo, a human who spends too much time yelling at compilers.
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=aaavvvooo&show_icons=true&theme=radical)  
 
 ## 🔗 Connect with me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://linkedin.com/in/avo-midoyan-5693)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://linkedin.com/in/avo-midoyan-5693481a3)  
   
 
