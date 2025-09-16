@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hey there 👋  
+I'm Avo, a human who spends too much time yelling at compilers.  
 
-<!--
-**aaavvvooo/aaavvvooo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Tech Stack
+- Flutter, Dart, and crying when `pub get` breaks  
+- Python, because why not  
+- Git, so I can lose my mind with merge conflicts  
 
-Here are some ideas to get you started:
+## 📊 GitHub Stats
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=aaavvvooo&show_icons=true&theme=radical)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔗 Connect with me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://linkedin.com/in/avo-midoyan)  
+  
+
